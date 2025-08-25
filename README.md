@@ -40,12 +40,11 @@
 ---
 
 ## 🔹 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jutehk&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jutehk&layout=compact&theme=radical)  
 
 ---
 
-## 📫 Let’s Connect!  
-💼 [Fiverr Profile](your-fiverr-link)  
+## 📫 Let’s Connect!   
 💻 [Portfolio Website](https://juliana-portfolio-2025.netlify.app/) 
 📧 Reach me at: **julianandunge54@gmail.com**
