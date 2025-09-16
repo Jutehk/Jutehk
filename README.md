@@ -21,7 +21,15 @@ Passionate about building, testing, and improving reliable software systems. I c
 - **Processes:** CI/CD pipelines, Agile testing practices  
 
 ---
+## Achievements & Contributions  
 
+- **Arctic Code Vault Contributor** – Code from my repositories has been preserved in GitHub’s Arctic Archive for future generations.  
+- **Pull Shark** – Multiple pull requests successfully merged, reflecting active collaboration and contribution to projects.  
+- **Open Source Involvement** – Participated in testing, reviewing, and improving community repositories.  
+- **Project Recognition** – Featured QA projects below demonstrate hands-on expertise in manual and automated testing.  
+- **Continuous Learning** – Actively expanding skills in test automation (Selenium, Jest, Cypress) and CI/CD practices while contributing to personal and collaborative projects.  
+
+---
 ## Featured Projects  
 - [**CleanCity – Waste Pickup Scheduler (QA Project)**](https://github.com/Jutehk/CleanCity.git) 
   Manual & automated testing using Jest and Selenium, with detailed defect tracking.  
@@ -33,6 +41,7 @@ Passionate about building, testing, and improving reliable software systems. I c
   UI/UX validation and functional test case design, managed via GitHub Projects.  
 
 ---
+
 
 ## GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jutehk&show_icons=true&theme=default)  
